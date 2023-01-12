@@ -3677,7 +3677,10 @@
     ],
     "sa6400_42962": [
         "dtbpatch",
-        "eudev"
+        "e1000",
+        "eudev",
+        "rtc-cmos",
+        "vmxnet3"
     ],
     "ds918p_42951": [
         "forcedeth",
