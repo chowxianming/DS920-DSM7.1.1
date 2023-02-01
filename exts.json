@@ -3673,6 +3673,7 @@
         "dtbpatch",
         "eudev",
         "mptspi",
+        "rtc-cmos",
         "vmxnet3"
     ],
     "sa6400_42962": [
