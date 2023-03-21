@@ -3683,6 +3683,10 @@
         "rtc-cmos",
         "vmxnet3"
     ],
+    "ds3622xsp_64216": [
+        "eudev",
+        "vmxnet3"
+    ],
     "ds918p_42951": [
         "forcedeth",
         "igc*",
